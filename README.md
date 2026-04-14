@@ -16,7 +16,7 @@
 │   └── Fund_value/           # 按年份存放的基金净值文件
 ├── 行业仓位测算/              # 行业指数数据目录
 │   └── results/              # 输出结果保存目录
-└── fund_industry_position.py # 主程序代码
+└── industry_position_parallel.py # 主程序代码
 ```
 
 ## 数据格式要求
@@ -46,7 +46,7 @@ OUTPUT_PATH = "结果输出路径"
 
 ### 3. 执行程序
 ```bash
-python fund_industry_position.py
+python industry_position_parallel.py
 ```
 
 ## 核心参数说明
