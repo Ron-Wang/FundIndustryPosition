@@ -90,6 +90,11 @@ python industry_position_parallel.py
 - `analyze_fund_concentration()`：计算HHI指数、行业集中度
 - `plot_industry_exposure()`：行业暴露趋势可视化
 
+### 平均仓位示意
+<div align="center">
+  <img src=https://github.com/Ron-Wang/FundIndustryPosition/blob/main/avg_results/avg_results.png width=800dp>
+</div>
+
 ## 使用示例
 ### 分析单基金持仓
 ```python
